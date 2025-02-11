@@ -1,2 +1,0 @@
-# Flask-Licence
-Flask-Licence
